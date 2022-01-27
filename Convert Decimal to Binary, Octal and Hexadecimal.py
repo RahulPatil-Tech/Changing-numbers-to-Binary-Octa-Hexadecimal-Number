@@ -1,4 +1,4 @@
-12# First, we will define the function to convert decimal to binary  
+# First, we will define the function to convert decimal to binary  
 def decimal_into_binary(decimal_1):
     decimal=int(decimal_1)
 
